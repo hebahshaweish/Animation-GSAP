@@ -31,7 +31,7 @@ useGSAP(() => {
 <div>
 
 <a href="#home" className="flex items-center gap-2">
-    <img src="/Animation-GSAP/images/logo.png" alt="logo"/>
+    <img src="images/logo.png" alt="logo"/>
     <p>Haboosh</p>
 </a>
 
